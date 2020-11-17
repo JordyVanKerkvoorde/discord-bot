@@ -1,0 +1,22 @@
+{
+  "name": "hogent-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot for the hogent server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordyVanKerkvoorde/hogent-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordyVanKerkvoorde/hogent-discord-bot/issues"
+  },
+  "homepage": "https://github.com/JordyVanKerkvoorde/hogent-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}

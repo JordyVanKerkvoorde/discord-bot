@@ -1,8 +1,13 @@
+const { GuildMember } = require("discord.js");
+
 module.exports = {
 	name: 'reload',
 	description: 'Reloads a command',
+    cooldown: 10,
 	execute(message, args) {
-		//if (!args.length) return message.channel.send(`You didn't pass any command to reload, ${message.author}!`);
+        if(!message.member.roles.cache.some(role => role.name === 'Harrier')) return message.channel.send(`You do not have the right permissions to use this command!`);
+        
+		if (!args.length) return message.channel.send(`You didn't pass any command to reload, ${message.author}!`);
         const commandName = args[0].toLowerCase();
         const command = message.client.commands.get(commandName)
             || message.client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));

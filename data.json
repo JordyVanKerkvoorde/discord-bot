@@ -13,14 +13,14 @@
         },
         {
             "name": "2 Respecteer Grenzen",
-            "rule": [
+            "text": [
                 "- Plaats geen foto’s of video’s van mensen als ze dit niet willen. Hieronder vallen o.a. gewone foto’s, vines, memes en emotes.",
                 "- Deel geen persoonlijke informatie van anderen als ze dit niet willen."
             ]
         },
         {
             "name": "3 Gebruik Kanalen",
-            "rule": [
+            "text": [
                 "- Plaats content in de daarvoor bedoelde kanalen.",
                 "- Spam is strikt verboden en leidt tot een tijdelijke mute.",
                 "- Iets promoten kan in samenspraak met de admins, maar niet goedgekeurde reclame die niet onder bovenstaande regel valt hoort niet op deze server thuis."
@@ -28,14 +28,14 @@
         },
         {
             "name": "4 Naam & Nickname",
-            "rule": [
+            "text": [
                 "- Bij het joinen van de server zet je je echte naam in je nickname. Deze kan een combinatie zijn van een gamertag en je echte naam (dummytag | dummynaam).",
                 "- Je voordoen als een andere persoon (catfishing, impersonatie, ...) is verboden. Je mag een profielfoto van iemand anders hebben mits toestemming van de persoon die op deze foto staat."
             ]
         },
         {
             "name": "5 Roles",
-            "rule": [
+            "text": [
                 "- Voeg jezelf toe aan je klas en bepaalde games etc in #roles"
             ]
         }

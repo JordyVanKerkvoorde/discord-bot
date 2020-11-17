@@ -2,7 +2,7 @@ module.exports = {
     name: 'args-info',
     aliases: ['arguments', 'args'],
 	description: 'Information about the arguments provided.',
-    usage: "<list of your arguments>",
+    usage: "[list of your arguments]",
     args: true,
     guildOnly: true,
 	execute(message, args) {

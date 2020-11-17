@@ -1,1 +1,1 @@
-# informatica-discord-bot
+# hogent-discord-bot

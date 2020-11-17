@@ -1,0 +1,43 @@
+{
+    "rules": [
+        {
+            "name": "1 Respect",
+            "text":[
+                "- Discriminatie en haatvol gedrag/taal zijn strikt verboden.",
+                "- Don’t be a drama :llama: respecteer elkaar en elkaars mening, ook al ben je het niet eens.",
+                "- Persoonlijke conflicten met medeleden dienen persoonlijk afgehandeld te worden. Als je vindt dat dit een invloed heeft of kan hebben op de server,kan je een admin vragen voor bemiddeling.",
+                "- Controversiële discussies (politiek, religie, etc) zijn toegestaan, maar moeten in de daarvoor voorziene channel ('Discussion') gevoerd worden. De admins bewaren het recht om te vragen dat discussies naar deze channel verplaatst worden als ze dit nodig achten.",
+                "- Als je vindt dat een ander lid een regel heeft overtreden, of je vindt dat een discussie volgens bovenstaande regel in de Discussion channel thuishoort, meld je dit dan in PM naar een admin. Dit in een open kanaal doen, kan leiden tot drama en is dus te vermijden.",
+                "- Admins of moderators hebben het laatste woord bij twijfelgevallen."
+            ]  
+        },
+        {
+            "name": "2 Respecteer Grenzen",
+            "rule": [
+                "- Plaats geen foto’s of video’s van mensen als ze dit niet willen. Hieronder vallen o.a. gewone foto’s, vines, memes en emotes.",
+                "- Deel geen persoonlijke informatie van anderen als ze dit niet willen."
+            ]
+        },
+        {
+            "name": "3 Gebruik Kanalen",
+            "rule": [
+                "- Plaats content in de daarvoor bedoelde kanalen.",
+                "- Spam is strikt verboden en leidt tot een tijdelijke mute.",
+                "- Iets promoten kan in samenspraak met de admins, maar niet goedgekeurde reclame die niet onder bovenstaande regel valt hoort niet op deze server thuis."
+            ]
+        },
+        {
+            "name": "4 Naam & Nickname",
+            "rule": [
+                "- Bij het joinen van de server zet je je echte naam in je nickname. Deze kan een combinatie zijn van een gamertag en je echte naam (dummytag | dummynaam).",
+                "- Je voordoen als een andere persoon (catfishing, impersonatie, ...) is verboden. Je mag een profielfoto van iemand anders hebben mits toestemming van de persoon die op deze foto staat."
+            ]
+        },
+        {
+            "name": "5 Roles",
+            "rule": [
+                "- Voeg jezelf toe aan je klas en bepaalde games etc in #roles"
+            ]
+        }
+    ]
+}

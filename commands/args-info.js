@@ -6,6 +6,7 @@ module.exports = {
     args: true,
     guildOnly: true,
 	execute(message, args) {
+        if(!message.member.roles.cache.some(role => role.name === 'Harrier')) return message.channel.send(`You do not have the right permissions to use this command!`);
 		if (args[0] === 'foo') {
 			return message.channel.send('bar');
 		}

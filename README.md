@@ -1,1 +1,1 @@
-# hogent-discord-bot
+discord-bot
